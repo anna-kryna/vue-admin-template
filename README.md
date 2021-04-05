@@ -4,7 +4,7 @@
 
 [![CircleCI](https://circleci.com/gh/tookit/vue-material-admin/tree/dev.svg?style=svg)](https://circleci.com/gh/tookit/vue-material-admin/tree/dev)
 
-English | [简体中文](./README.zh-CN.md) 
+English 
 
 About vuetify deveopment, please check my blog [http://isocked.com], (A vuepress theme made with vuetify)
 
