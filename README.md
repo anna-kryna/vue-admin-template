@@ -99,9 +99,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 If you find this project useful, you can buy author a glass of juice :tropical_drink:
 
 
-[Paypal Me](https://www.paypal.me/tookit)
-
-[Buy me a coffee](https://www.buymeacoffee.com/tookit)
 
 <a href="https://www.buymeacoffee.com/tookit" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
